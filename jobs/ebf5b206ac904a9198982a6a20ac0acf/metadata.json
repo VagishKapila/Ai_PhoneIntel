@@ -1,0 +1,19 @@
+{
+    "job_id": "ebf5b206ac904a9198982a6a20ac0acf",
+    "description": "2 home trenching",
+    "status": "complete",
+    "progress": 100,
+    "message": "Complete",
+    "results": {
+        "top_contractors": [
+            {
+                "name": "Bay Area Trenching",
+                "score": 98.5
+            },
+            {
+                "name": "Precision Concrete",
+                "score": 87.2
+            }
+        ]
+    }
+}

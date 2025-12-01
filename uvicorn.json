@@ -1,0 +1,10 @@
+{
+  "reload": true,
+  "reload_dirs": ["backend/fastapi_app"],
+  "reload_exclude": [
+    "venv/*",
+    "shared/*",
+    "**/__pycache__/*",
+    "*site-packages*"
+  ]
+}
