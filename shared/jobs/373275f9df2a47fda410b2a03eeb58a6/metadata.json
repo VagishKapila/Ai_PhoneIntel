@@ -1,0 +1,16 @@
+{
+  "job_id": "373275f9df2a47fda410b2a03eeb58a6",
+  "description": "trenching",
+  "status": "completed",
+  "progress": 100,
+  "messages": [
+    "Initializing AI engine\u2026",
+    "Analyzing description\u2026",
+    "Processing drawings & PDFs\u2026",
+    "Running contractor suitability engine\u2026",
+    "Analysis complete."
+  ],
+  "results": {
+    "summary": "AI pipeline finished successfully."
+  }
+}

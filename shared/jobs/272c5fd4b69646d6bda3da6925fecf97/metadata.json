@@ -1,0 +1,17 @@
+{
+  "job_id": "272c5fd4b69646d6bda3da6925fecf97",
+  "description": "test trench",
+  "status": "completed",
+  "progress": 100,
+  "messages": [
+    "Initializing AI engine\u2026",
+    "Analyzing description\u2026",
+    "Processing drawings & PDFs\u2026",
+    "Running contractor suitability\u2026",
+    "Analysis complete."
+  ],
+  "results": {
+    "summary": "AI pipeline finished successfully."
+  },
+  "message": "Analysis complete."
+}
